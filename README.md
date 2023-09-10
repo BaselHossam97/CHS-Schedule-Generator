@@ -26,7 +26,13 @@ To see the tutorial videos make sure you are using the desktop browser.
 
 
 
-https://github.com/BaselHossam97/CHS-Schedule-Generator/assets/102327565/44232b19-5550-49cf-ac9b-cc95054ad29e
+
+https://github.com/BaselHossam97/CHS-Schedule-Generator/assets/102327565/75751fd2-a353-4149-8ef0-294e30abfac2
+
+The previous example was made on one of my test input files, generated schedules are surely more, it also used,
+old course codes but that is something that has been adjusted.
+
+
 
 
 ## **Section 2: Adjusting input**

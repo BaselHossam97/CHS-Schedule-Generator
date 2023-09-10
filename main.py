@@ -46,7 +46,6 @@ def is_valid(com):
                     if(count > 2):
                         return False
                     if(com[i][4] == com[j][4]):
-                        print(str(com[i][4]))
                         return False
                     if('MTHN' in com[i][1] and (com[i][3] != com[j][3])):
                         return False

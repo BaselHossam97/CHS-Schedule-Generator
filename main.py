@@ -50,7 +50,7 @@ def is_valid(com):
                     if('MTHN' in com[i][1] and (com[i][3] != com[j][3])):
                         return False
 
-        if (count == 1 and 'GENN' not in com[i][1] and 'CCEN' not in com[i][1]):
+        if (count == 1 and 'GENN' not in com[i][1] and 'CCEN' not in com[i][1] and 'GENS' not in com[i][1] and 'CCES' not in com[i][1]):
             return False
     return True
 

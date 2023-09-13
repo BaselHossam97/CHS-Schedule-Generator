@@ -17,7 +17,7 @@ To see the tutorial videos make sure you are using the desktop browser.
 ## **Section 1: How to use**
 1- Open the given project
 
-2- Install Pandas and Openpyxl
+2- Install Pandas 2.1.0 and Openpyxl 3.1.2
 
 3- enter the course codes in the given format: code1,code2,code3, for instance: cmpn321,genn004
 , notice it is not case sensitive.
@@ -47,6 +47,7 @@ https://github.com/BaselHossam97/CHS-Schedule-Generator/assets/102327565/663d54f
 
 Surely it is better to delete all the contents of the Input file the paste the new content.
 
+If you encounter any problem please let me know.
 
 
 

@@ -59,7 +59,7 @@ def is_valid(com):
 
 genns = 0
 for i in input_data:
-    if 'GENN' in i or 'CCEN' in i or 'GENS' in i or 'CCES' in i:
+    if 'GENN' in i or 'CCEN' in i or 'GENS' in i or 'CCES' in i or 'WEES' in i or 'EEES' in i or 'AETS' in i or 'MDES' in i or 'MEES' in i or 'CEMN' in i or 'STEN' in i or 'EEEN' in i:
         genns += 1
 n = genns + 2 * (len(input_data)-genns)
 combinations = get_combinations(n, df1)
